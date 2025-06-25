@@ -2,7 +2,7 @@
 node_modules/
 */node_modules/
 frontend/
- 
+
 # Production builds
 build/
 dist/
@@ -10,11 +10,6 @@ dist/
 */dist/
 /mobile/node_modules
 /mobile/build
-/mobile/dist
-/mobile/android
-/mobile/ios
-/mobile/web
-/mobile/coverage
 # Environment variables
 .env
 .env.local
