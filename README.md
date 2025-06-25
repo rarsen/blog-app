@@ -168,3 +168,10 @@ mobile/
     └── types/             # TypeScript type definitions
         └── index.ts       # Interface definitions
 ```
+
+
+### Example of usage
+
+
+https://github.com/user-attachments/assets/b2fc9047-2294-45e4-9fc8-f12b12cb51de
+
